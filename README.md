@@ -1,13 +1,12 @@
 # Hola👋, Soy Matías Adauy
 
-## Co-fundador de Mactec, donde buscamos automatizar procesos utilizando IA
+## Co-fundador de Mactec, empresa dedicada a automatizar procesos empresariales con IA
 
 - 🔭 Actualmente estoy trabajando en [Mactec](https://www.mactec.cl)
 - 👯 Busco colaborar en proyectos innovadores que involucren IA y automatización
-- 🌱 Actualmente estoy aprendiendo más sobre Deep learning
 - 💬 Pregúntame sobre desarrollo web, IA y automatizaciones
 - 📫 Puedes contactarme en [madauy@mactec.cl](mailto:madauy@mactec.cl)
-- 📄 Conoce más sobre mi experiencia en [linkedin.com/in/madauy/](https://www.linkedin.com/in/madauy/)
+- 📄 Conoce más sobre mi en [linkedin.com/in/madauy/](https://www.linkedin.com/in/madauy/)
 
 ## Lenguajes y Herramientas
 
