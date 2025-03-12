@@ -1,12 +1,11 @@
-# Hola👋, Soy Matías Adauy
+# Hello👋, I'm Matías Adauy
 
-## Co-fundador de Mactec, empresa dedicada a automatizar procesos empresariales con IA
-
-- 🔭 Actualmente estoy trabajando en [Mactec](https://www.mactec.cl)
-- 👯 Busco colaborar en proyectos innovadores que involucren IA y automatización
-- 💬 Pregúntame sobre desarrollo web, IA y automatizaciones
-- 📫 Puedes contactarme en [madauy@mactec.cl](mailto:madauy@mactec.cl)
-- 📄 Conoce más sobre mi en [linkedin.com/in/madauy/](https://www.linkedin.com/in/madauy/)
+## Co-founder of Mactec, a company dedicated to automating business processes with AI
+- 🔭 I'm currently working at [Mactec](https://www.mactec.cl)
+- 👯 I'm looking to collaborate on innovative projects involving AI and automation
+- 💬 Ask me about web development, AI and automations
+- 📫 You can contact me at [madauy@mactec.cl](mailto:madauy@mactec.cl)
+- 📄 Learn more about me at [linkedin.com/in/madauy/](https://www.linkedin.com/in/madauy/)
 
 ## Lenguajes y Herramientas
 
